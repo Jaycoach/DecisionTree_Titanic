@@ -57,4 +57,4 @@ El análisis sigue una estructura rigurosa:
 ## Instalación y Uso
 1. Clone el repositorio:
 ```bash
-git clone https://github.com/Jaycoach/Titanic_Analysis.git
+git clone https://github.com/Jaycoach/DecisionTree_Titanic.git
