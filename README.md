@@ -43,7 +43,7 @@ El análisis sigue una estructura rigurosa:
 
 ## Resultados Principales
 - Identificación de los factores más influyentes en la supervivencia
-- Desarrollo de un modelo predictivo con [X%] de precisión
+- Desarrollo de un modelo predictivo con 87% de precisión
 - Visualizaciones interactivas de patrones de supervivencia
 - Análisis detallado de la importancia de las características
 
@@ -57,4 +57,4 @@ El análisis sigue una estructura rigurosa:
 ## Instalación y Uso
 1. Clone el repositorio:
 ```bash
-git clone https://github.com/[tu-usuario]/Titanic_Analysis.git
+git clone https://github.com/Jaycoach/Titanic_Analysis.git
